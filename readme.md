@@ -8,14 +8,12 @@
 
 - Python 3.10+
 - CUDA 支持（推荐）
-- 4GB+ 内存
-- 摄像头（可选，用于实时检测）
 
 ## 安装步骤
 
 1. 克隆项目到本地：
 ```bash
-git clone [项目地址]
+git clone git@github.com:danel-phang/SDDCS.git
 cd 1-Projiect
 ```
 
